@@ -1,0 +1,600 @@
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 13, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 13, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 13, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 13, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-01
+Adding attendance for MED1002 on 2026-07-01
+
+✅ Added 100 new attendance records.
+   Present: 85 | Absent: 15
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-02
+Adding attendance for MED1002 on 2026-07-02
+
+✅ Added 100 new attendance records.
+   Present: 84 | Absent: 16
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-03
+Adding attendance for MED1002 on 2026-07-03
+
+✅ Added 100 new attendance records.
+   Present: 91 | Absent: 9
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-04
+Adding attendance for MED1002 on 2026-07-04
+
+✅ Added 100 new attendance records.
+   Present: 80 | Absent: 20
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-05
+Adding attendance for MED1002 on 2026-07-05
+
+✅ Added 100 new attendance records.
+   Present: 89 | Absent: 11
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-06
+Adding attendance for MED1002 on 2026-07-06
+
+✅ Added 100 new attendance records.
+   Present: 86 | Absent: 14
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-07
+Adding attendance for MED1002 on 2026-07-07
+
+✅ Added 100 new attendance records.
+   Present: 89 | Absent: 11
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-08
+Adding attendance for MED1002 on 2026-07-08
+
+✅ Added 100 new attendance records.
+   Present: 93 | Absent: 7
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-09
+Adding attendance for MED1002 on 2026-07-09
+
+✅ Added 100 new attendance records.
+   Present: 83 | Absent: 17
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-10
+Adding attendance for MED1002 on 2026-07-10
+
+✅ Added 100 new attendance records.
+   Present: 82 | Absent: 18
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-11
+Adding attendance for MED1002 on 2026-07-11
+
+✅ Added 100 new attendance records.
+   Present: 81 | Absent: 19
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 138, in <module>
+    add_daily_attendance()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 77, in add_daily_attendance
+    conn = get_connection()
+  File "/mnt/c/Users/yasse/OneDrive/سطح المكتب/THE_Project/First_File.py", line 31, in get_connection
+    return psycopg2.connect(**DB_CONFIG)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/yasser/.local/lib/python3.14/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "172.27.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+Found 100 student-course combinations.
+Adding attendance for MED1001 on 2026-07-14
+Adding attendance for MED1002 on 2026-07-14
+
+✅ Added 100 new attendance records.
+   Present: 86 | Absent: 14
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+No significant absence increases detected this run.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 17 (22110017) - MED1001: 20.0% absence -> Reminder: you are at 20% absence.
+   Fake Student 45 (22110045) - MED1001: 15.24% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 15 (22110015) - MED1001: 20.0% absence -> Reminder: you are at 20% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 07 (22110007) - MED1001: 15.09% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 18 (22110018) - MED1002: 15.09% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 17 (22110017) - MED1001: 20.56% absence -> Reminder: you are at 20% absence.
+   Fake Student 15 (22110015) - MED1001: 20.56% absence -> Reminder: you are at 20% absence.
+   Fake Student 27 (22110027) - MED1002: 25.23% absence -> You are Deprived (25% or more absence).
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 12 (22110012) - MED1001: 20.37% absence -> Reminder: you are at 20% absence.
+   Fake Student 19 (22110019) - MED1001: 20.37% absence -> Reminder: you are at 20% absence.
+   Fake Student 18 (22110018) - MED1002: 15.74% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 45 (22110045) - MED1001: 15.6% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 02 (22110002) - MED1001: 15.32% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 24 (22110024) - MED1002: 15.04% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 36 (22110036) - MED1001: 15.04% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 27 (22110027) - MED1002: 25.22% absence -> You are Deprived (25% or more absence).
+   Fake Student 50 (22110050) - MED1001: 15.65% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  4 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 24 (22110024) - MED1002: 15.25% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 13 (22110013) - MED1001: 15.25% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 20 (22110020) - MED1002: 15.25% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 41 (22110041) - MED1002: 15.25% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 15 (22110015) - MED1002: 15.13% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 10 (22110010) - MED1001: 15.13% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 25 (22110025) - MED1002: 15.13% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 26 (22110026) - MED1001: 15.0% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 19 (22110019) - MED1002: 15.57% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 18 (22110018) - MED1002: 15.45% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 48 (22110048) - MED1001: 15.32% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 38 (22110038) - MED1002: 20.16% absence -> Reminder: you are at 20% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 25 (22110025) - MED1002: 15.2% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 18 (22110018) - MED1001: 15.08% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 08 (22110008) - MED1002: 15.08% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 50 (22110050) - MED1001: 15.08% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 32 (22110032) - MED1002: 20.47% absence -> Reminder: you are at 20% absence.
+   Fake Student 21 (22110021) - MED1001: 20.47% absence -> Reminder: you are at 20% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 13 (22110013) - MED1001: 15.63% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 12 (22110012) - MED1001: 20.31% absence -> Reminder: you are at 20% absence.
+   Fake Student 11 (22110011) - MED1001: 15.63% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 15 (22110015) - MED1002: 15.5% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 18 (22110018) - MED1002: 15.5% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 50 (22110050) - MED1001: 15.5% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 40 (22110040) - MED1002: 20.0% absence -> Reminder: you are at 20% absence.
+   Fake Student 19 (22110019) - MED1001: 20.0% absence -> Reminder: you are at 20% absence.
+   Fake Student 26 (22110026) - MED1002: 15.38% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 43 (22110043) - MED1001: 15.27% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  5 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 43 (22110043) - MED1002: 15.15% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 02 (22110002) - MED1001: 15.15% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 17 (22110017) - MED1002: 15.15% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 20 (22110020) - MED1002: 15.15% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 01 (22110001) - MED1002: 15.15% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  4 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 24 (22110024) - MED1001: 15.04% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 10 (22110010) - MED1001: 15.04% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 12 (22110012) - MED1001: 20.3% absence -> Reminder: you are at 20% absence.
+   Fake Student 42 (22110042) - MED1001: 15.04% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 19 (22110019) - MED1001: 20.0% absence -> Reminder: you are at 20% absence.
+
+⚠️  6 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 43 (22110043) - MED1002: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 48 (22110048) - MED1001: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 19 (22110019) - MED1002: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 27 (22110027) - MED1001: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 50 (22110050) - MED1001: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 21 (22110021) - MED1002: 15.44% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 15 (22110015) - MED1002: 15.33% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 41 (22110041) - MED1002: 15.33% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 24 (22110024) - MED1001: 15.11% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 42 (22110042) - MED1002: 15.11% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 26 (22110026) - MED1001: 15.0% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+No threshold crossings detected this run.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 32 (22110032) - MED1002: 20.28% absence -> Reminder: you are at 20% absence.
+   Fake Student 26 (22110026) - MED1002: 15.38% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 08 (22110008) - MED1002: 15.38% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 33 (22110033) - MED1001: 15.17% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 13 (22110013) - MED1001: 15.17% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 30 (22110030) - MED1002: 15.17% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 43 (22110043) - MED1002: 15.07% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 48 (22110048) - MED1002: 15.07% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 42 (22110042) - MED1001: 15.07% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
+
+⚠️  3 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 39 (22110039) - MED1001: 20.27% absence -> Reminder: you are at 20% absence.
+   Fake Student 13 (22110013) - MED1001: 15.54% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 05 (22110005) - MED1001: 15.54% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 27 (22110027) - MED1001: 15.44% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 48 (22110048) - MED1002: 15.44% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 40 (22110040) - MED1001: 20.0% absence -> Reminder: you are at 20% absence.
+
+⚠️  1 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 24 (22110024) - MED1002: 15.23% absence -> Reminder: you have crossed 15% absence.
+
+⚠️  2 ATTENDANCE WARNING(S) DETECTED:
+   Fake Student 47 (22110047) - MED1001: 15.13% absence -> Reminder: you have crossed 15% absence.
+   Fake Student 21 (22110021) - MED1002: 15.13% absence -> Reminder: you have crossed 15% absence.
+No threshold crossings detected this run.
